@@ -1,4 +1,4 @@
-#English Text Analysis Using Hidden Markov Models
+#English_Text_Analysis_Using_Hidden_Markov_Models
 
 This is a Machine Learning Project which utilizes Hidden Markov Models to determine the structure of English language.
 

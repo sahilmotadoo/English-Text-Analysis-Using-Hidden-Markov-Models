@@ -18,7 +18,6 @@ int getIndex(char c) {
 }
 
 int main() {
-
     printf("HMM Code to Analyze English text...\n");
     sleep(1);
     double rowsum[N];
@@ -130,7 +129,6 @@ int main() {
     for(int j = 0; j < N; j++) {
         pi[j] = pi[j]/sumPi;
     }
-    //
     int tcount = 0;
     int ch = 0;
     FILE *fptr;

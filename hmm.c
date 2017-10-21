@@ -134,7 +134,7 @@ int main() {
     FILE *fptr;
     printf("Reading plain-text file...\n");
     sleep(1);
-    fptr = fopen("/Users/sahilmotadoo/Documents/cs286/assign1/brown.txt", "r");
+    fptr = fopen("brown.txt", "r");
     if(fptr) {
         printf("File present at specified location...\n");
         sleep(1);
